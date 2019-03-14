@@ -1,2 +1,2 @@
-# -mageProcessing
+# ImageProcessing
 Canny Edge Detection
