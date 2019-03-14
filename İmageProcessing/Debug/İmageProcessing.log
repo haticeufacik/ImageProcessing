@@ -1,0 +1,28 @@
+﻿  MyForm.cpp
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(234): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(242): warning C4018: '<=': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(284): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(289): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(328): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(336): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(341): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(350): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(359): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(368): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(377): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(389): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(390): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(400): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(417): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(885): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(894): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(902): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(903): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(920): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(1488): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(1489): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(1503): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(1504): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\ders notları\3. sınıf\İmageprocessing\İmageprocessing\MyForm.h(333): warning C4101: 'd': unreferenced local variable
+MyForm.cpp(8): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  İmageProcessing.vcxproj -> C:\Users\daflan-pc\Documents\ders notları\3. sınıf\İmageProcessing\Debug\İmageProcessing.exe
